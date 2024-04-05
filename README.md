@@ -20,3 +20,8 @@ Cria modelos de dados para representar os clientes e desenvolve endpoints RESTfu
 ### Benefícios:
 
 Este projeto oferece uma maneira prática de aprender sobre o desenvolvimento de APIs com C# e MongoDB, enquanto trabalha com um conjunto de dados relevante para uma padaria. Você terá a oportunidade de explorar operações básicas de CRUD, funcionalidades de pesquisa e validação de dados em uma aplicação RESTful.
+
+### MongoDB
+- Banco de dados: CustumerBakeryDB
+- Coleção: db.clients
+    - Cliente possue: name, address e phone
