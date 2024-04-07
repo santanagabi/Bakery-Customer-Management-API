@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\",
+  "WorkspaceRootPath": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|c:\\users\\gabol\\onedrive\\\u00E1rea de trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\apibakerycustomer\\apibakerycustomer\\services\\customerdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|solutionrelative:apibakerycustomer\\services\\customerdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|c:\\users\\gabol\\onedrive\\\u00E1rea de trabalho\\api-puc\\bakery-customer-management-api\\src\\apibakerycustomer\\apibakerycustomer\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|solutionrelative:apibakerycustomer\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|c:\\users\\gabol\\onedrive\\\u00E1rea de trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\apibakerycustomer\\apibakerycustomer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|solutionrelative:apibakerycustomer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|c:\\users\\gabol\\onedrive\\\u00E1rea de trabalho\\api-puc\\bakery-customer-management-api\\src\\apibakerycustomer\\apibakerycustomer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|solutionrelative:apibakerycustomer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|c:\\users\\gabol\\onedrive\\\u00E1rea de trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\apibakerycustomer\\apibakerycustomer\\models\\customerdatasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|c:\\users\\gabol\\onedrive\\\u00E1rea de trabalho\\api-puc\\bakery-customer-management-api\\src\\apibakerycustomer\\apibakerycustomer\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|solutionrelative:apibakerycustomer\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|c:\\users\\gabol\\onedrive\\\u00E1rea de trabalho\\api-puc\\bakery-customer-management-api\\src\\apibakerycustomer\\apibakerycustomer\\models\\customerdatasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|solutionrelative:apibakerycustomer\\models\\customerdatasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|c:\\users\\gabol\\onedrive\\\u00E1rea de trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\apibakerycustomer\\apibakerycustomer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|c:\\users\\gabol\\onedrive\\\u00E1rea de trabalho\\api-puc\\bakery-customer-management-api\\src\\apibakerycustomer\\apibakerycustomer\\services\\customerdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|solutionrelative:apibakerycustomer\\services\\customerdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|c:\\users\\gabol\\onedrive\\\u00E1rea de trabalho\\api-puc\\bakery-customer-management-api\\src\\apibakerycustomer\\apibakerycustomer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|solutionrelative:apibakerycustomer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|c:\\users\\gabol\\onedrive\\\u00E1rea de trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\apibakerycustomer\\apibakerycustomer\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|solutionrelative:apibakerycustomer\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|c:\\users\\gabol\\onedrive\\\u00E1rea de trabalho\\api-puc\\bakery-customer-management-api\\src\\apibakerycustomer\\apibakerycustomer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94D34C7-4647-4444-AE07-686BC2EEA401}|APIBakeryCustomer\\APIBakeryCustomer.csproj|solutionrelative:apibakerycustomer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,70 +45,91 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIBakeryCustomer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIBakeryCustomer\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T19:58:58.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "APIBakeryCustomer\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "APIBakeryCustomer\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwEMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:49:43.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CustomerDataService.cs",
-              "DocumentMoniker": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Services\\CustomerDataService.cs",
+              "DocumentMoniker": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Services\\CustomerDataService.cs",
               "RelativeDocumentMoniker": "APIBakeryCustomer\\Services\\CustomerDataService.cs",
-              "ToolTip": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Services\\CustomerDataService.cs",
+              "ToolTip": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Services\\CustomerDataService.cs",
               "RelativeToolTip": "APIBakeryCustomer\\Services\\CustomerDataService.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAwwCYAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T01:33:50.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Program.cs",
               "RelativeDocumentMoniker": "APIBakeryCustomer\\Program.cs",
-              "ToolTip": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Program.cs",
+              "ToolTip": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Program.cs",
               "RelativeToolTip": "APIBakeryCustomer\\Program.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T01:20:11.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T01:20:11.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CustomerDataSettings.cs",
-              "DocumentMoniker": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Models\\CustomerDataSettings.cs",
+              "DocumentMoniker": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Models\\CustomerDataSettings.cs",
               "RelativeDocumentMoniker": "APIBakeryCustomer\\Models\\CustomerDataSettings.cs",
-              "ToolTip": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Models\\CustomerDataSettings.cs",
+              "ToolTip": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Models\\CustomerDataSettings.cs",
               "RelativeToolTip": "APIBakeryCustomer\\Models\\CustomerDataSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T01:17:34.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\appsettings.json",
               "RelativeDocumentMoniker": "APIBakeryCustomer\\appsettings.json",
-              "ToolTip": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\appsettings.json",
               "RelativeToolTip": "APIBakeryCustomer\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-06T01:11:42.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Models\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Models\\Client.cs",
               "RelativeDocumentMoniker": "APIBakeryCustomer\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\gabol\\OneDrive\\\u00C1rea de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\Models\\Client.cs",
               "RelativeToolTip": "APIBakeryCustomer\\Models\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA1wBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T01:05:50.042Z",
               "EditorCaption": ""

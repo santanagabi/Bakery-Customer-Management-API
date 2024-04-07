@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yvV3xlLMKswscbrxypGWWH8+SGEmz1r0E39FrxwTGXQvwcjcpFZ/8c2W7yaEeqGjCiYno2wD3NLMYmy0Q+6BxA==",
+  "dgSpecHash": "vJfdf+DtkCOTJTh61I3u3NZwRT+yHYdMA7tNz0KxVctl8ngKCh9sy72UIgRibZGW0UL3VVm06SAZxU8ksQ530w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabol\\OneDrive\\Área de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\APIBakeryCustomer.csproj",
+  "projectFilePath": "C:\\Users\\gabol\\OneDrive\\Área de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\APIBakeryCustomer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabol\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\gabol\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

@@ -1245,11 +1245,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabol\\OneDrive\\Área de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\APIBakeryCustomer.csproj",
+      "projectUniqueName": "C:\\Users\\gabol\\OneDrive\\Área de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\APIBakeryCustomer.csproj",
       "projectName": "APIBakeryCustomer",
-      "projectPath": "C:\\Users\\gabol\\OneDrive\\Área de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\APIBakeryCustomer.csproj",
+      "projectPath": "C:\\Users\\gabol\\OneDrive\\Área de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\APIBakeryCustomer.csproj",
       "packagesPath": "C:\\Users\\gabol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabol\\OneDrive\\Área de Trabalho\\estudos\\pmv-ads-2024-1-e4-proj-dad-t3-diarista\\src\\APIBakeryCustomer\\APIBakeryCustomer\\obj\\",
+      "outputPath": "C:\\Users\\gabol\\OneDrive\\Área de Trabalho\\API-Puc\\Bakery-Customer-Management-API\\src\\APIBakeryCustomer\\APIBakeryCustomer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
